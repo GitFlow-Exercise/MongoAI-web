@@ -210,6 +210,10 @@ MongoAI 팀은 다음과 같은 문화를 가지고 있습니다:
 | ------ |
 | ![스크린샷 2025-05-24 오후 6 20 27](https://github.com/user-attachments/assets/fd407559-57ee-4fee-8afc-f206c7910302) |
 
+| 결제 |
+| ------ |
+| ![스크린샷 2025-05-28 오후 2 08 27](https://github.com/user-attachments/assets/55ac483d-4c47-489e-a9d5-40f41415af0e) |
+
 ------
 
 <div align="center">   <p><i>MongoAI - 교사의 시간을 절약하고, 교육의 질을 높이는 AI 동반자</i></p>   <p>Made with ❤️ by the MongoAI Team</p> </div>
