@@ -22,6 +22,7 @@ class AuthRepositoryImpl extends AuthRepository {
   @override
   Stream<AuthState> get authStateChanges => _authDataSource.authStateChanges;
 
+  //TODO: Google Oauth Migration
   // 내부적으로 리스닝 시작 메서드
   void _startAuthStateListening() {
     _authSubscription?.cancel();
